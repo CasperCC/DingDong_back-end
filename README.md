@@ -2,7 +2,7 @@
 
 A WeChat applet for instant messaging for enterprise users
 
-< 注：使用前请手动配置数据库以及阿里云OSS Bucket
+> 注：使用前请手动配置数据库以及阿里云OSS Bucket
 
 ## QuickStart
 
